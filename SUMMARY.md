@@ -23,6 +23,14 @@
 ## Audit playbooks
 
 * [Active Directory forest audit](07-audit-playbooks/active-directory-forest-audit.md)
+  * [Coverage and inventory](07-audit-playbooks/active-directory/coverage-and-inventory.md)
+  * [Privileged identities](07-audit-playbooks/active-directory/privileged-identities.md)
+  * [Trusts and boundaries](07-audit-playbooks/active-directory/trusts-and-boundaries.md)
+  * [Kerberos and delegation](07-audit-playbooks/active-directory/kerberos-and-delegation.md)
+  * [NTLM exposure](07-audit-playbooks/active-directory/ntlm-exposure.md)
+  * [AD CS inventory and template risk](07-audit-playbooks/active-directory/ad-cs-inventory-and-template-risk.md)
+  * [Group Policy security](07-audit-playbooks/active-directory/group-policy-security.md)
+  * [Credential and service-account hygiene](07-audit-playbooks/active-directory/credential-and-service-account-hygiene.md)
 * [Entra ID tenant audit](07-audit-playbooks/entra-id-tenant-audit.md)
 * [Azure subscription audit](07-audit-playbooks/azure-subscription-audit.md)
 * [Azure IAM and privilege-path audit](07-audit-playbooks/azure-iam-privilege-path-audit.md)

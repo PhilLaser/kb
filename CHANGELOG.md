@@ -12,6 +12,8 @@
 - Field-guide workflow and command-verification labels.
 - Operational foundations for authentication/authorization, Kerberos, and NTLM.
 - Cross-platform AD discovery and effective-rights guidance with PowerShell, Linux, and NetExec lanes.
+- Executable AD forest-audit checks for coverage, privilege, trusts, delegation, NTLM, AD CS, Group Policy, and credential hygiene.
+- AD forest-audit permissions matrix and explicit remaining-coverage ledger.
 
 ### Migration notes
 
