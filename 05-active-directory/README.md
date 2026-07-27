@@ -27,6 +27,13 @@ Start by confirming scope, domains, forests, trusts, sites, and reachable direct
 
 - [Active Directory forest audit](../07-audit-playbooks/active-directory-forest-audit.md)
 
+## Field foundations
+
+- [Directory structure and discovery](directory-structure-and-discovery.md)
+- [Security descriptors and effective rights](ad-security-descriptors-and-effective-rights.md)
+- [Kerberos protocol and ticket flow](../01-foundations/kerberos-protocol-and-ticket-flow.md)
+- [NTLM authentication and relay boundaries](../01-foundations/ntlm-authentication-and-relay-boundaries.md)
+
 ## Legacy material awaiting migration
 
 Current technique notes remain under [`../windows/active-directory/`](../windows/active-directory/). They are not yet certified against the new templates.

@@ -11,6 +11,8 @@ This registry records discovery sources and authoritative references. A source's
 | Attacking Active Directory: 0 to 0.9 | To verify | AD internals and attack-path reasoning | Practitioner research | To verify | To verify | 2026-07-27 | Exact canonical URL and licence require verification |
 | Microsoft Learn | https://learn.microsoft.com/ | Azure, Entra, Graph, Windows | Vendor documentation | Active | Site terms | 2026-07-27 | Product documentation may omit abuse implications |
 | MITRE ATT&CK | https://attack.mitre.org/ | Technique taxonomy and detections | Maintained knowledge base | Active | See source | 2026-07-27 | Mapping does not establish exploitability |
+| Microsoft Windows protocol specifications | https://learn.microsoft.com/en-us/openspecs/windows_protocols/ | Windows and AD wire protocols | Primary protocol documentation | Active | Microsoft documentation terms | 2026-07-27 | Specifications require implementation and version context |
+| NetExec documentation | https://www.netexec.wiki/ | Tool syntax and workflows | Official tool documentation | Active; version-sensitive | To verify | 2026-07-27 | Syntax source only; tool output is not authoritative platform behavior |
 
 ## Usage rules
 

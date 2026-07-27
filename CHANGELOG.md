@@ -9,6 +9,9 @@
 - Concept, audit, technique, tool, malware-research, and source templates.
 - Initial AD, Entra, Azure subscription, and Azure IAM audit overviews.
 - Source registry and prioritized 50-page backlog.
+- Field-guide workflow and command-verification labels.
+- Operational foundations for authentication/authorization, Kerberos, and NTLM.
+- Cross-platform AD discovery and effective-rights guidance with PowerShell, Linux, and NetExec lanes.
 
 ### Migration notes
 

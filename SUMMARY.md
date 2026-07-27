@@ -2,10 +2,19 @@
 
 * [Home](README.md)
 * [Repository roadmap](00-start-here/repository-roadmap.md)
+* [Field guide workflow](00-start-here/field-guide-workflow.md)
+
+## Foundations
+
+* [Authentication, authorization, and effective access](01-foundations/authentication-authorization-and-effective-access.md)
+* [Kerberos protocol and ticket flow](01-foundations/kerberos-protocol-and-ticket-flow.md)
+* [NTLM authentication and relay boundaries](01-foundations/ntlm-authentication-and-relay-boundaries.md)
 
 ## Active Directory
 
 * [Section overview](05-active-directory/README.md)
+* [Directory structure and discovery](05-active-directory/directory-structure-and-discovery.md)
+* [Security descriptors and effective rights](05-active-directory/ad-security-descriptors-and-effective-rights.md)
 
 ## Azure and Entra ID
 
